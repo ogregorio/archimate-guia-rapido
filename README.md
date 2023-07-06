@@ -6,7 +6,7 @@ description: >-
 
 # Guia Rápido — ArchiMate
 
-Primeiramente, esse guia é inspirado ArchiMate Quick Guide, que você poderá encontrar [aqui](https://archimatetool.gitbook.io/quick\_guide/). A ideia é ampliar os conceitos apresentados por lá e contextualizá-los na realidade brasileira, a fim de facilitar a disseminação dessa tecnologia nacionalmente.
+Primeiramente, esse guia é no inspirado ArchiMate Quick Guide, que você poderá encontrar [aqui](https://archimatetool.gitbook.io/quick\_guide/). A ideia é ampliar os conceitos apresentados por lá e contextualizá-los na realidade brasileira, a fim de facilitar a disseminação dessa tecnologia nacionalmente.
 
 O padrão ArchiMate® é a linguagem gráfica internacional para modelagem de arquiteturas empresariais. Essa linguagem de visualização oferece uma forma uniforme e integrada de descrever, analisar e visualizar arquiteturas. Ela se diferencia de outras linguagens de modelagem, como UML ou BPMN, por ser mais conceitual e menos focada nos detalhes. Isso possibilita fornecer visões sobre a estrutura e a coerência dos processos de negócio, estruturas organizacionais, fluxos de informações e infraestrutura técnica.
 
