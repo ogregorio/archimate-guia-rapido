@@ -7,7 +7,7 @@ description: >-
 
 # Camadas
 
-O ArchiMate e divide a arquitetura em três principais camadas principais — Negócios, Aplicação e Tecnologia — e fornece elementos e conceitos para modelar a estratégia, implementação e migração, bem como os serviços e recursos envolvidos em cada camada. Abaixo falaremos um pouco mais de cada camada:
+O ArchiMate divide a arquitetura em três principais camadas — Negócios, Aplicação e Tecnologia — e fornece elementos e conceitos para modelar a estratégia, implementação e migração, bem como os serviços e recursos envolvidos em cada camada. Abaixo falaremos um pouco mais de cada camada:
 
 1. **Estratégia:** nesse contexto, estratégia refere-se à abordagem utilizada para lidar com um determinado problema ou situação. É como você planeja enfrentar um desafio e quais recursos e pessoas serão necessários para alcançar a mudança desejada.
 2. **Negócios:** a camada de negócios representa os serviços oferecidos pela empresa aos clientes. Esses serviços são realizados por meio de processos de negócios executados por diferentes atores na organização. Em outras palavras, é onde você identifica as principais atividades de negócios e as pessoas ou papéis que as desempenham.
@@ -16,4 +16,6 @@ O ArchiMate e divide a arquitetura em três principais camadas principais — Ne
 5. **Físico:** a camada física é opcional e pode ser adicionada à camada de tecnologia. Ela permite modelar elementos físicos, como equipamentos, materiais e redes de distribuição. Por exemplo, você pode representar servidores físicos, roteadores de rede ou até mesmo dispositivos de armazenamento físico.
 6. **Implementação e Migração:** essa camada diz respeito à implementação e migração de mudanças na arquitetura. Aqui, você pode modelar o gerenciamento de projetos e portfólio, fazer análises de lacunas entre a arquitetura atual e a futura desejada, e planejar a transição e migração de sistemas e processos.
 
-Essas camadas e elementos do ArchiMate e fornecem uma linguagem comum para descrever e visualizar a arquitetura corporativa de uma organização, permitindo a comunicação efetiva entre diferentes partes interessadas e facilitando a compreensão e análise da arquitetura.
+Essas camadas e elementos do ArchiMate fornecem uma linguagem comum para descrever e visualizar a arquitetura corporativa de uma organização, permitindo a comunicação efetiva entre diferentes partes interessadas e facilitando a compreensão e análise da arquitetura.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Framework ArchiMate Completo</p></figcaption></figure>
